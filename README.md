@@ -35,3 +35,7 @@ Here's the list of books I'm reading, have read or have purchased, month–by–
 #### Fiction
 
 #### Non-Fiction
+
+- 
+Get Ready for CSS Grid Layout – Rachel Andrew
+- Price Design – Daniel Mall
