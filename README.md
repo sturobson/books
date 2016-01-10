@@ -14,8 +14,7 @@ Here's the list of books I'm reading, have read or have purchased, month–by–
 
 #### Non-Fiction
 
-- Eloquent JavaSCript – Marijn  Haverbeke
-- Price Design – Daniel Mall
+- Eloquent JavaScript – Marijn  Haverbeke
 
 *****
 
@@ -28,6 +27,7 @@ Here's the list of books I'm reading, have read or have purchased, month–by–
 - Version Control With GIT – Ryan Taylor
 - You Don't Know JS - Up & Going – Kyle Simpson
 - On Web Typography – Jason Santa Maria
+- Price Design – Daniel Mall
 
 *****
 
