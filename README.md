@@ -15,8 +15,6 @@ Here's the list of books I'm reading, have read or have purchased, month–by–
 
 - Eloquent JavaScript – Marijn  Haverbeke
 - Git For Humans -  David Demaree
-- 
-*****
 
 ### Read
 
