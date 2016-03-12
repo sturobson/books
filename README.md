@@ -2,6 +2,45 @@
 
 Here's the list of books I'm reading, have read or have purchased, month–by–month.
 
+## March
+
+### Reading
+
+#### Fiction
+
+- Tarkin – James Lucino
+
+#### Non-Fiction
+
+- Eloquent JavaScript – Marijn  Haverbeke
+- Git For Humans -  David Demaree
+
+*****
+
+### Purchased
+
+#### Fiction
+
+- The Gemini Effect - Chuck Grossart
+- Fear and Loathing on the Campaign Trail '72 - Hunter S. Thompson, Ralph Steadman
+- I Used to Know That: Stuff You Forgot From School - Caroline Taggart
+- Very British Problems - Rob Temple
+
+## February
+
+### Reading
+
+#### Fiction
+
+- Tarkin – James Lucino
+
+#### Non-Fiction
+
+- Eloquent JavaScript – Marijn  Haverbeke
+- Git For Humans -  David Demaree
+
+
+*****
 
 ## January
 
